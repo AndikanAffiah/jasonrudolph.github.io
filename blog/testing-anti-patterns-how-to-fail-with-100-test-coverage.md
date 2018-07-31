@@ -49,7 +49,3 @@ We will look at examples of each of these problems, and show how to prevent them
 * [NFJS - Twin Cities Software Symposium](http://www.nofluffjuststuff.com/show_session_view.jsp?presentationId=11948&showId=149 "How to Fail With 100% Test Coverage - Twin Cities Software Symposium - July 26, 2008") - 10/11/2008 [[SH](https://twitter.com/stuarthalloway "Stuart Halloway")]
 
 * [NFJS - Gateway Software Symposium](http://www.nofluffjuststuff.com/show_session_view.jsp?presentationId=13026&showId=183 "How to Fail With 100% Test Coverage - Gateway Software Symposium - March 7, 2009") - 03/07/2009 [[SH](https://twitter.com/stuarthalloway "Stuart Halloway")]
-
---
-
-To schedule an event at your user group, conference, or company, check us out at [thinkrelevance.com](http://thinkrelevance.com "Relevance: Agile Development, Consulting and Training").
